@@ -1,0 +1,58 @@
+<style>
+  /* style for name */
+  .name{font-size: 30px
+    
+  }
+  
+  h3, h4 { color: black;
+    font-weight: bold;
+  }
+  
+  h2 {
+    background-color: darkslategrey;
+    color: white;
+    padding: 15px; /* Adjust the padding as needed */
+    margin: 2; /* Remove default margin */
+  }
+
+  .link-no-underline {
+    text-decoration: none;
+  }
+  /* style for projects */
+   .project {
+     display: flex; 
+     align-items: center;"
+  }
+  
+  /* New style for education container */
+  .project-container {
+    display: flex; 
+    flex: 1; 
+    flex-direction: column; 
+    align-items: center; 
+    background-color: #f2f2f2; 
+    border-radius: 20px;
+    text-align: center;
+    align-self: stretch;
+    margin-right: 20px;
+  }
+  /* style for education */
+   .education {
+     display: flex; 
+     align-items: center;"
+  }
+  
+  /* New style for education container */
+  .education-container {
+    display: flex; 
+    flex: 1; 
+    flex-direction: column; 
+    align-items: center; 
+    background-color: #f2f2f2; 
+    border-radius: 20px;
+    border: 2px solid #bfbfbf;
+    text-align: center;
+    align-self: stretch;
+    margin-right: 20px;
+  }
+</style>

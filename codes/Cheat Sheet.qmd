@@ -1,0 +1,25 @@
+---
+title: "Cheat Sheet"
+---
+
+Clear global environment use code below:
+
+rm(list = ls())
+
+### Save dataframe to computer
+
+```{r}
+# Assuming you have a dataframe named samplecomment
+# Define the directory path and filename
+#directory_path <- "C:/Users/ADMIN/Desktop/Data Methods/Data"
+#file_name <- "samplecomment.csv"
+
+# Combine the directory path and filename using file.path()
+#file_path <- file.path(directory_path, file_name)
+
+# Save the samplecomment dataframe to the specified file path as a CSV file
+#write.csv(samplecomment, file_path)
+
+# The dataframe will be saved as "samplecomment.csv" in the specified directory
+
+```

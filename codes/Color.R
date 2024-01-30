@@ -1,0 +1,5 @@
+library(RColorBrewer)
+par(mfrow = c(2,2))
+display.brewer.all(type = "seq")
+display.brewer.all(type = "qual")
+display.brewer.all(type = "div")

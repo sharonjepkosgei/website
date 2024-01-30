@@ -1,0 +1,113 @@
+<figure style="float: left; margin-left: 20px;">
+
+<img src="images/Sharon Photo.jpeg" alt="Profile Image" width="190"/>
+
+</figure>
+
+<br>     Hi, I'm **Sharon Jepkosgei**     
+
+     A Data Scientist/Analyst      
+
+     <a href="mailto:jepkosgeisharon003@gmail.com" class="link-no-underline">Email, </a> <a href="https://www.linkedin.com/in/sharon-jep//" class="link-no-underline">LinkedIn</a> <br> <br>
+
+Welcome to my Website! I'm a graduate student at the <a href="https://www.utdallas.edu/" class="link-no-underline">University of Texas at Dallas</a> in the Social Data Analytics and Research program. I am interested in dealing with diverse types of data and passionate about finding insights from data analytics. Skilled in SQL query, big data processing, statistical analytics, ML, NLP, and data visualization. Actively seeking a 2024 Data Analyst position. Let's collaborate in a dynamic, innovative environment to apply data-driven insights and make a positive impact. Explore my repositories and projects, and reach out for potential collaborations. Together, we'll harness the power of data!
+
+<p>
+
+## About
+
+I'm a data scientist/analyst with a strong educational background and a passion for leveraging data to drive actionable insights. I'm a Master's student enrolled in the Social Data Analytics at The University of Texas at Dallas.
+
+I bring a foundation in data analysis, programming, and database management. My skills encompass a wide array of programming languages and tools, including Python, R, Tableau, SPSS, STATA, and SQL. I'm well-versed in database and big data technologies such as including PostgreSQL. I have practiced data analysis across various domains, including mental health, international economics, and political science. My dedication to data-driven decision-making is reflected in my projects.
+
+I have worked as a research student assistant for the <a href="https://centerforbrainhealth.org/" class="link-no-underline">Centre for Brain Health</a> currently working on the <a href="https://centerforbrainhealth.org/science/brainomics" class="link-no-underline">Brainomics Venture</a> whose aim is to drive economic and social growth through better brain health.
+
+## Projects
+
+
+<div class="project">
+<div class="project-container">
+
+
+#### Information Management & Database Project
+
+[![Explore Care App](images/database.jpeg){width="319"}](https://sharonjepkosgei.shinyapps.io/ExploreApp/)
+
+<p>Description: Project 1 description.</p>
+
+<p>Tools: Tool A, Tool B</p>
+
+<p>[View Online](https://project1-link.com/) \| [GitHub Repo](https://github.com/yourusername/project1-repo)</p>
+</div>
+
+<div class="project-container">
+
+#### Natural Language Processing & Web Scrapping
+
+[![](images/NLP-image.jpg){width="400"}](https://slides.com/sharon_j/project-proposal)
+
+<p>Description: Project 2 description.</p>
+
+<p>Tools: Tool X, Tool Y</p>
+
+<p>[View Online](https://project2-link.com/) \| [GitHub Repo](https://github.com/yourusername/project2-repo)</p>
+</div>
+<div class="project-container">
+
+#### EmpowerHer Placement Tool
+
+[![](images/NLP-image.jpg){width="400"}](https://slides.com/sharon_j/project-proposal)
+
+<p>Description: Project 3 description.</p>
+
+<p>Tools: Python, Tool Y</p>
+
+<p>[View Online](https://project2-link.com/) \| [GitHub Repo](https://github.com/yourusername/project2-repo)</p>
+</div>
+</div>
+
+
+## Skills
+
+-   **Programming Languages:** Python, R, SQL
+
+-   **Visualization Tools:** Tableau, Jupyter Notebook, R, Shiny
+
+-   **Libraries:** NumPy, pandas, Matplotlib.
+
+-   **Languages:** English, Kiswahili
+
+-   **Statistical Programming Languages:** R, SPSS, and STATA
+
+## Education
+
+<div class="education">
+<div class="education-container">
+  <strong> UNIVERSITY OF TEXAS AT DALLAS </strong>
+  <p>Dallas, USA</p>
+  <p><strong>Degree:</strong> Master of Science in Social Data Analytics and Research</p>
+  <p><strong>Graduation Year:</strong> 2024</p>
+  <p><strong>GPA:</strong> 3.945/4.0</p>
+</div>
+
+
+<div class="education-container">
+  <strong>KENYATTA UNIVERSITY</strong><br>
+  <p>Nairobi, Kenya</p>
+  <p><strong>Degree:</strong> Bachelor of Science in Economics and Statistics</p>
+  <p><strong>Graduation Year:</strong> 2021</p>
+  <p><strong>GPA:</strong> 80/100</p>
+</div>
+</div>
+
+## Contact
+
+[![](images/email.png){width="70"}](mailto:jepkosgeisharon003@gmail.com) <a href="mailto:jepkosgeisharon003@gmail.com" class="link-no-underline"><i class="fas fa-envelope"></i> jepkosgeisharon003\@gmail.com</a>
+
+[![](images/telephone.png){width="60"}](mailto:jepkosgeisharon003@gmail.com) <a href="tel:+325-901-4597" class="link-no-underline"><i class="fas fa-phone"></i> +325-901-4597 </a>
+
+[![](images/linkedin.png){width="60"}](https://www.linkedin.com/in/sharon-jep/) <a href="https://www.linkedin.com/in/sharon-jep/" class="link-no-underline"><i class="fab fa-linkedin"></i> https://www.linkedin.com/in/sharon-jep</a>
+
+## <a href="posts/resume.pdf" target="_blank" style="text-decoration: none; color: inherit;">Resume</a>
+
+## <a href="posts/cv.pdf" target="_blank" style="text-decoration: none; color: inherit;">CV</a>

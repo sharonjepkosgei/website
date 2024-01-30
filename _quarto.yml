@@ -1,0 +1,43 @@
+project:
+  type: website
+
+website:
+  title: "Sharon Jepkosgei"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - text: "Courses"        
+        menu:
+          - href: "https://sharonjepkosgei.github.io/knowledgemining/"
+            text: "Knowledge Mining"
+          - href: "https://sharonjepkosgei.github.io/dataviz/"
+            text: "Data Visualization"
+          - href: "https://sharonjepkosgei.github.io/datamethods/"
+            text: "Data Collection & Production"
+          - href: informanagement.qmd
+            text: "Information Management"
+          - href: EconPolicy.qmd
+            text: "Economics of Public Policy"
+      - text: "Projects"
+        menu:
+          - href: "Final Presentation.pdf"
+            text: "Final presentation"
+          - href: "Sharon_Jepkosgei_Project_epps6354.pdf"
+            text: "Final Paper"
+          - href: "Database Proposal Presentation.pdf"
+            text: "Proposal Presentation"
+      - href: "https://sharonjepkosgei.shinyapps.io/ExploreApp/"
+        text: "Explore Care App"
+      - href: "posts/resume.pdf"
+        text: "Resume"
+            
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    fontsize: 1.5em
+    mainfont: Open Sans
+    monofont: playfair
+    toc: true
+editor: visual

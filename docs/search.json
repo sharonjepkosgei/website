@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "posts/informanagement.html",
+    "href": "posts/informanagement.html",
+    "title": "Sharon Jepkosgei",
+    "section": "",
+    "text": "Course Description\n\nThis course introduces students to the use of economic methods of the analysis of public policy.A variety of public policy topics are covered including education, employment and the labor market, taxes and redistribution, access to health care, poverty and inequality, and public assistance programs.\n\n\nAssignment 1\nAssignment 2\nAssignment 3\nAssignment 4\nAssignment 5\nAssignment 6"
+  },
+  {
+    "objectID": "posts/informanagement.html#epps-6354-information-management",
+    "href": "posts/informanagement.html#epps-6354-information-management",
+    "title": "Sharon Jepkosgei",
+    "section": "",
+    "text": "Course Description\n\nThis course introduces students to the use of economic methods of the analysis of public policy.A variety of public policy topics are covered including education, employment and the labor market, taxes and redistribution, access to health care, poverty and inequality, and public assistance programs.\n\n\nAssignment 1\nAssignment 2\nAssignment 3\nAssignment 4\nAssignment 5\nAssignment 6"
+  },
+  {
+    "objectID": "codes/Cheat Sheet.html",
+    "href": "codes/Cheat Sheet.html",
+    "title": "Cheat Sheet",
+    "section": "",
+    "text": "Clear global environment use code below:\nrm(list = ls())\n\nSave dataframe to computer\n\n# Assuming you have a dataframe named samplecomment\n# Define the directory path and filename\n#directory_path &lt;- \"C:/Users/ADMIN/Desktop/Data Methods/Data\"\n#file_name &lt;- \"samplecomment.csv\"\n\n# Combine the directory path and filename using file.path()\n#file_path &lt;- file.path(directory_path, file_name)\n\n# Save the samplecomment dataframe to the specified file path as a CSV file\n#write.csv(samplecomment, file_path)\n\n# The dataframe will be saved as \"samplecomment.csv\" in the specified directory"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sharon Jepkosgei",
+    "section": "",
+    "text": "Hi, I’m Sharon Jepkosgei\nA Data Scientist/Analyst\nEmail,  LinkedIn\nWelcome to my Website! I’m a graduate student at the University of Texas at Dallas in the Social Data Analytics and Research program. I am interested in dealing with diverse types of data and passionate about finding insights from data analytics. Skilled in SQL query, big data processing, statistical analytics, ML, NLP, and data visualization. Actively seeking a 2024 Data Analyst position. Let’s collaborate in a dynamic, innovative environment to apply data-driven insights and make a positive impact. Explore my repositories and projects, and reach out for potential collaborations. Together, we’ll harness the power of data!"
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Sharon Jepkosgei",
+    "section": "About",
+    "text": "About\nI’m a data scientist/analyst with a strong educational background and a passion for leveraging data to drive actionable insights. I’m a Master’s student enrolled in the Social Data Analytics at The University of Texas at Dallas.\nI bring a foundation in data analysis, programming, and database management. My skills encompass a wide array of programming languages and tools, including Python, R, Tableau, SPSS, STATA, and SQL. I’m well-versed in database and big data technologies such as including PostgreSQL. I have practiced data analysis across various domains, including mental health, international economics, and political science. My dedication to data-driven decision-making is reflected in my projects.\nI have worked as a research student assistant for the Centre for Brain Health currently working on the Brainomics Venture whose aim is to drive economic and social growth through better brain health."
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "Sharon Jepkosgei",
+    "section": "Projects",
+    "text": "Projects\n\n\nInformation Management & Database Project\n\n\n\nExplore Care App\n\n\n\nDescription: Project 1 description.\n\n\nTools: Tool A, Tool B\n\n\nView Online | GitHub Repo\n\n\n\nNatural Language Processing & Web Scrapping\n\n\n\n\n\n\nDescription: Project 2 description.\n\n\nTools: Tool X, Tool Y\n\n\nView Online | GitHub Repo\n\n\n\nEmpowerHer Placement Tool\n\n\n\n\n\n\nDescription: Project 3 description.\n\n\nTools: Python, Tool Y\n\n\nView Online | GitHub Repo"
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Sharon Jepkosgei",
+    "section": "Skills",
+    "text": "Skills\n\nProgramming Languages: Python, R, SQL\nVisualization Tools: Tableau, Jupyter Notebook, R, Shiny\nLibraries: NumPy, pandas, Matplotlib.\nLanguages: English, Kiswahili\nStatistical Programming Languages: R, SPSS, and STATA"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Sharon Jepkosgei",
+    "section": "Education",
+    "text": "Education\n\n\n UNIVERSITY OF TEXAS AT DALLAS \n\nDallas, USA\n\n\nDegree: Master of Science in Social Data Analytics and Research\n\n\nGraduation Year: 2024\n\n\nGPA: 3.945/4.0\n\n\n\nKENYATTA UNIVERSITY\n\nNairobi, Kenya\n\n\nDegree: Bachelor of Science in Economics and Statistics\n\n\nGraduation Year: 2021\n\n\nGPA: 80/100"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Sharon Jepkosgei",
+    "section": "Contact",
+    "text": "Contact\n  jepkosgeisharon003@gmail.com\n  +325-901-4597 \n  https://www.linkedin.com/in/sharon-jep"
+  },
+  {
+    "objectID": "index.html#resume",
+    "href": "index.html#resume",
+    "title": "Sharon Jepkosgei",
+    "section": "Resume",
+    "text": "Resume"
+  },
+  {
+    "objectID": "index.html#cv",
+    "href": "index.html#cv",
+    "title": "Sharon Jepkosgei",
+    "section": "CV",
+    "text": "CV"
+  },
+  {
+    "objectID": "posts/EconPolicy.html",
+    "href": "posts/EconPolicy.html",
+    "title": "Sharon Jepkosgei",
+    "section": "",
+    "text": "Course Description\n\nThis course introduces students to the use of economic methods of the analysis of public policy.A variety of public policy topics are covered including education, employment and the labor market, taxes and redistribution, access to health care, poverty and inequality, and public assistance programs.\n\n\nResearch Paper"
+  },
+  {
+    "objectID": "posts/EconPolicy.html#pppe-6321-economics-of-public-policy",
+    "href": "posts/EconPolicy.html#pppe-6321-economics-of-public-policy",
+    "title": "Sharon Jepkosgei",
+    "section": "",
+    "text": "Course Description\n\nThis course introduces students to the use of economic methods of the analysis of public policy.A variety of public policy topics are covered including education, employment and the labor market, taxes and redistribution, access to health care, poverty and inequality, and public assistance programs.\n\n\nResearch Paper"
+  }
+]
